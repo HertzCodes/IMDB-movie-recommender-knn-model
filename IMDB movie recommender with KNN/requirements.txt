@@ -1,8 +1,0 @@
-pip~=24.0
-attrs~=23.2.0
-filelock~=3.13.4
-typer~=0.12.3
-rich~=13.7.1
-numpy~=1.26.4
-requests~=2.31.0
-beautifulsoup4~=4.12.3
